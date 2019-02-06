@@ -27,6 +27,6 @@ Sketches:
 
 ![alt-text](https://github.com/TriphiusFire/Art/blob/master/wall.jpg?raw=true)
 
-![alt-text](https://github.com/TriphiusFire/Art/blob/master/bird1grid.jpg?raw=true)
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/bird1grid.png?raw=true)
 
 ![alt-text](https://github.com/TriphiusFire/Art/blob/master/wife-daughter.jpg?raw=true)
