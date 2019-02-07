@@ -31,7 +31,7 @@ Curtains:
 Misc:
 ![alt-text](https://github.com/TriphiusFire/Art/blob/master/Blood&#32;and&#32;Oil.png?raw=true)
 
-![alt-text](https://github.com/TriphiusFire/Art/blob/master/Oniverse.jpg?raw=true)
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/psychedelic&#32;Froggie&#32;mr&#32;1.png?raw=true)
 
 ![alt-text](https://github.com/TriphiusFire/Art/blob/master/artnight.png?raw=true)
 
