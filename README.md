@@ -42,3 +42,13 @@ I spent the most time on this sketch then decided "If I need to be a sketch arti
 
 Misc:
 ![alt-text](https://github.com/TriphiusFire/Art/blob/master/Blood&#32;and&#32;Oil.png?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/Oniverse.jpg?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/artnight.png?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/Oniverse.jpgg?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/stright.jpgg?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/1&#32;suns&#32;1.jpgg?raw=true)
