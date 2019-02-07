@@ -41,4 +41,4 @@ I spent the most time on this sketch then decided "If I need to be a sketch arti
 ![alt-text](https://github.com/TriphiusFire/Art/blob/master/wife-daughter.jpg?raw=true)
 
 Misc:
-![alt-text](https://github.com/TriphiusFire/Art/blob/master/Blood and Oil.png?raw=true)
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/Blood&#32;and&#32;Oil.png?raw=true)
