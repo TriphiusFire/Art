@@ -23,6 +23,19 @@ Curtains:
 
 ![alt-text](https://github.com/TriphiusFire/Art/blob/master/GreenCurtainWithStage1.jpg?raw=true)
 
+Misc:
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/Blood&#32;and&#32;Oil.png?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/Oniverse.jpg?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/artnight.png?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/Oniverse.jpg?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/stright.jpg?raw=true)
+
+![alt-text](https://github.com/TriphiusFire/Art/blob/master/1&#32;suns&#32;1.jpg?raw=true)
+
 Sketches: 
 
 ![alt-text](https://github.com/TriphiusFire/Art/blob/master/woodtexture.jpg?raw=true)
@@ -40,15 +53,3 @@ Sketches:
 I spent the most time on this sketch then decided "If I need to be a sketch artist for game development, it is possible, fun, and easy enough", and went back to game development
 ![alt-text](https://github.com/TriphiusFire/Art/blob/master/wife-daughter.jpg?raw=true)
 
-Misc:
-![alt-text](https://github.com/TriphiusFire/Art/blob/master/Blood&#32;and&#32;Oil.png?raw=true)
-
-![alt-text](https://github.com/TriphiusFire/Art/blob/master/Oniverse.jpg?raw=true)
-
-![alt-text](https://github.com/TriphiusFire/Art/blob/master/artnight.png?raw=true)
-
-![alt-text](https://github.com/TriphiusFire/Art/blob/master/Oniverse.jpgg?raw=true)
-
-![alt-text](https://github.com/TriphiusFire/Art/blob/master/stright.jpgg?raw=true)
-
-![alt-text](https://github.com/TriphiusFire/Art/blob/master/1&#32;suns&#32;1.jpgg?raw=true)
