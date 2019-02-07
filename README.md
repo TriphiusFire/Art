@@ -1,5 +1,10 @@
 # Art
-A repository for some of my art
+A repository for some of my art.
+
+I am hardly art-educated, certainly no art professional, but I'm happy with how these high tech doodles turned out! 
+
+See the bottom for sketches, the only art class I took was for Drawing, and there was definite improvement in a short time. 
+So if I need to be an artist ever, a little education and I will probably be good at it.
 
 Colorverse series:
 
